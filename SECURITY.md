@@ -31,7 +31,7 @@ When reporting a vulnerability, please include:
 
 I will review reported vulnerabilities as soon as possible.
 
-For personal or learning projects, response and correction times may vary depending on the complexity of the issue and project priority.
+Response and correction times may vary depending on the complexity of the issue and project priority.
 
 ## Scope
 
